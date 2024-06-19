@@ -29,6 +29,7 @@ Para executar o modelo de rede neural, basta acessar o arquivo `model.ipynb`, na
 
 ![alt text](src/public/execucao.png)
 
+### Executando aplicação
 
 #### Basta executar o programa main.py
 
