@@ -93,4 +93,4 @@ python3 main.py
     ```
 
 ## Vídeo demonstrativo
-<video controls src="src/public/video_demo.mp4" title="Title"></video>
+![[Video Demo]](./src/public/video_demo.mp4)
